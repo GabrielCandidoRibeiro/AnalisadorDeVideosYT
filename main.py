@@ -71,7 +71,6 @@ def analisar_conteudo(info):
         return f"❌ Erro ao processar análise do conteúdo com Google Gemini: {e}"
 
 
-# Executa apenas se o script for rodado diretamente
 if __name__ == "__main__":
     print("📽️  ANALISADOR DE VÍDEOS DO YOUTUBE\n")
 
